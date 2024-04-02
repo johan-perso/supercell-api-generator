@@ -8,7 +8,7 @@ It allows the automation of the configuration of projects using these APIs, with
 
 > Disclaimer: this project is not affiliated with Supercell and was created for educational purposes. The use of this CLI is at your own risk.
 
-<!-- TODO: screenshot here -->
+![screenshot](https://github.com/johan-perso/supercell-api-generator/assets/41506568/9d665021-0eb4-4743-864b-7f9e6a5bec46)
 
 
 ## Installation
